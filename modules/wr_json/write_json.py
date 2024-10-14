@@ -2,9 +2,9 @@ import json
 #
 import os
 #
-def write_json(name_file: str, value_file: str):
+def create_json(name_file: str, value_file: str):
     #
-    path_static = os.path.abspath(__file__ + f'../../../static/{name_file}')
+    path_static = os.path.abspath(__file__ + f'../../../../static/{name_file}')
     #
     with open(file= path_static, mode= "w") as file:
         #

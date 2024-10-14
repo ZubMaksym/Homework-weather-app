@@ -1,12 +1,12 @@
 import requests
 #
-from .read_json import read_json
+from .wr_json import scan_json
 #
-from .write_json import write_json
+from .wr_json import create_json
 #
 import json
 #
-data_api = read_json(name_file= 'config_api.json')
+data_api = scan_json(name_file= 'config_api.json')
 #
 API_KEY = data_api['api_key']
 #
@@ -20,7 +20,7 @@ if response.status_code == 200:
     #
     data_dict = json.loads(response.content)
     #
-    write_json(name_file= "config_weather.json", value_file= data_dict)
+    create_json(name_file= "config_weather.json", value_file= data_dict)
     #
     print(json.dumps(data_dict, indent= 4))
 else:
