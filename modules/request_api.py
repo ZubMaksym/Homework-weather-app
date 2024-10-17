@@ -12,7 +12,7 @@ API_KEY = data_api['api_key']
 #
 CITY_NAME = data_api['city_name']
 #
-URL = f"https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}"
+URL = f"https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}&units=metric"
 #
 response = requests.get(URL)
 #
