@@ -1,44 +1,45 @@
 {
     "coord": {
-        "lon": 34.9833,
-        "lat": 48.45
+        "lon": -0.1257,
+        "lat": 51.5085
     },
     "weather": [
         {
-            "id": 800,
-            "main": "Clear",
-            "description": "clear sky",
-            "icon": "01n"
+            "id": 803,
+            "main": "Clouds",
+            "description": "рвані хмари",
+            "icon": "04n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 9.47,
-        "feels_like": 8.79,
-        "temp_min": 9.47,
-        "temp_max": 9.47,
-        "pressure": 1031,
-        "humidity": 67,
-        "sea_level": 1031,
-        "grnd_level": 1019
+        "temp": 14.53,
+        "feels_like": 14.21,
+        "temp_min": 13.13,
+        "temp_max": 15.43,
+        "pressure": 1015,
+        "humidity": 83,
+        "sea_level": 1015,
+        "grnd_level": 1011
     },
     "visibility": 10000,
     "wind": {
-        "speed": 1.76,
-        "deg": 1,
-        "gust": 2.91
+        "speed": 4.63,
+        "deg": 120
     },
     "clouds": {
-        "all": 4
+        "all": 75
     },
-    "dt": 1729534598,
+    "dt": 1729791478,
     "sys": {
-        "country": "UA",
-        "sunrise": 1729483744,
-        "sunset": 1729521595
+        "type": 2,
+        "id": 2075535,
+        "country": "GB",
+        "sunrise": 1729752021,
+        "sunset": 1729788521
     },
-    "timezone": 10800,
-    "id": 709930,
-    "name": "Dnipro",
+    "timezone": 3600,
+    "id": 2643743,
+    "name": "London",
     "cod": 200
 }

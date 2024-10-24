@@ -1,4 +1,4 @@
 {
     "api_key": "f45b384d06f8d6558d2f50d57cd3220f",
-    "city_name": "Dnipro"
+    "city_name": ["Dnipro", "Kyiv", "Lviv", "Rome", "London"]
 }
