@@ -14,7 +14,6 @@ class WeatherImage(ctk.CTkLabel):
             text= '',
             **kwargs
         )
-        self.place(x= 380, y = 170)
         
     def load_image(self):
         #
@@ -31,3 +30,4 @@ class WeatherImage(ctk.CTkLabel):
 
 
 image = WeatherImage(child_master= mainframe)
+image.place(x= 380, y = 170)
