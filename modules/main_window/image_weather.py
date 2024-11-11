@@ -6,7 +6,12 @@ import PIL.Image as pil
 
 
 class WeatherImage(ctk.CTkLabel):
-    def __init__(self, child_master: object, **kwargs):
+    def __init__(
+        self, 
+        child_master: object, 
+        name_json: str | None = None, 
+        **kwargs
+    ):
         ctk.CTkLabel.__init__(
             self, 
             master= child_master, 
