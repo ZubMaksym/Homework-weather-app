@@ -5,39 +5,41 @@
     },
     "weather": [
         {
-            "id": 800,
-            "main": "Clear",
-            "description": "чисте небо",
-            "icon": "01n"
+            "id": 500,
+            "main": "Rain",
+            "description": "легкий дощ",
+            "icon": "10n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 7.27,
-        "feels_like": 7.27,
-        "temp_min": 5.27,
-        "temp_max": 8.47,
-        "pressure": 1037,
-        "humidity": 85,
-        "sea_level": 1037,
-        "grnd_level": 1032
+        "temp": 7.48,
+        "feels_like": 5.79,
+        "temp_min": 6.28,
+        "temp_max": 8.21,
+        "pressure": 1007,
+        "humidity": 90,
+        "sea_level": 1007,
+        "grnd_level": 1002
     },
     "visibility": 10000,
     "wind": {
-        "speed": 0.89,
-        "deg": 10,
-        "gust": 2.68
+        "speed": 2.57,
+        "deg": 100
+    },
+    "rain": {
+        "1h": 0.41
     },
     "clouds": {
-        "all": 3
+        "all": 75
     },
-    "dt": 1731351075,
+    "dt": 1731951136,
     "sys": {
         "type": 2,
         "id": 2075535,
         "country": "GB",
-        "sunrise": 1731309134,
-        "sunset": 1731341822
+        "sunrise": 1731914658,
+        "sunset": 1731946049
     },
     "timezone": 0,
     "id": 2643743,

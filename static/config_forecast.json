@@ -1,0 +1,308 @@
+{
+    "cod": "200",
+    "message": 0,
+    "cnt": 8,
+    "list": [
+        {
+            "dt": 1731952800,
+            "main": {
+                "temp": 6.29,
+                "feels_like": 4.1,
+                "temp_min": 6.29,
+                "temp_max": 6.29,
+                "pressure": 1012,
+                "sea_level": 1012,
+                "grnd_level": 1001,
+                "humidity": 91,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "хмарно",
+                    "icon": "04n"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 2.94,
+                "deg": 197,
+                "gust": 6.04
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2024-11-18 18:00:00"
+        },
+        {
+            "dt": 1731963600,
+            "main": {
+                "temp": 6.06,
+                "feels_like": 4.35,
+                "temp_min": 5.59,
+                "temp_max": 6.06,
+                "pressure": 1012,
+                "sea_level": 1012,
+                "grnd_level": 1001,
+                "humidity": 90,
+                "temp_kf": 0.47
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "хмарно",
+                    "icon": "04n"
+                }
+            ],
+            "clouds": {
+                "all": 100
+            },
+            "wind": {
+                "speed": 2.27,
+                "deg": 233,
+                "gust": 4.12
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2024-11-18 21:00:00"
+        },
+        {
+            "dt": 1731974400,
+            "main": {
+                "temp": 4.77,
+                "feels_like": 2.74,
+                "temp_min": 4.01,
+                "temp_max": 4.77,
+                "pressure": 1013,
+                "sea_level": 1013,
+                "grnd_level": 1002,
+                "humidity": 83,
+                "temp_kf": 0.76
+            },
+            "weather": [
+                {
+                    "id": 804,
+                    "main": "Clouds",
+                    "description": "хмарно",
+                    "icon": "04n"
+                }
+            ],
+            "clouds": {
+                "all": 99
+            },
+            "wind": {
+                "speed": 2.37,
+                "deg": 269,
+                "gust": 3.3
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2024-11-19 00:00:00"
+        },
+        {
+            "dt": 1731985200,
+            "main": {
+                "temp": 2.88,
+                "feels_like": 0.48,
+                "temp_min": 2.88,
+                "temp_max": 2.88,
+                "pressure": 1014,
+                "sea_level": 1014,
+                "grnd_level": 1002,
+                "humidity": 73,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "уривчасті хмари",
+                    "icon": "03n"
+                }
+            ],
+            "clouds": {
+                "all": 30
+            },
+            "wind": {
+                "speed": 2.4,
+                "deg": 248,
+                "gust": 3.27
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2024-11-19 03:00:00"
+        },
+        {
+            "dt": 1731996000,
+            "main": {
+                "temp": 3.15,
+                "feels_like": 0.03,
+                "temp_min": 3.15,
+                "temp_max": 3.15,
+                "pressure": 1015,
+                "sea_level": 1015,
+                "grnd_level": 1004,
+                "humidity": 73,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "уривчасті хмари",
+                    "icon": "03d"
+                }
+            ],
+            "clouds": {
+                "all": 33
+            },
+            "wind": {
+                "speed": 3.33,
+                "deg": 235,
+                "gust": 9.5
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2024-11-19 06:00:00"
+        },
+        {
+            "dt": 1732006800,
+            "main": {
+                "temp": 6.96,
+                "feels_like": 3.56,
+                "temp_min": 6.96,
+                "temp_max": 6.96,
+                "pressure": 1017,
+                "sea_level": 1017,
+                "grnd_level": 1005,
+                "humidity": 51,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "чисте небо",
+                    "icon": "01d"
+                }
+            ],
+            "clouds": {
+                "all": 10
+            },
+            "wind": {
+                "speed": 5.55,
+                "deg": 279,
+                "gust": 8.86
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2024-11-19 09:00:00"
+        },
+        {
+            "dt": 1732017600,
+            "main": {
+                "temp": 7.91,
+                "feels_like": 5.26,
+                "temp_min": 7.91,
+                "temp_max": 7.91,
+                "pressure": 1017,
+                "sea_level": 1017,
+                "grnd_level": 1005,
+                "humidity": 42,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "кілька хмар",
+                    "icon": "02d"
+                }
+            ],
+            "clouds": {
+                "all": 11
+            },
+            "wind": {
+                "speed": 4.36,
+                "deg": 292,
+                "gust": 6.77
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "d"
+            },
+            "dt_txt": "2024-11-19 12:00:00"
+        },
+        {
+            "dt": 1732028400,
+            "main": {
+                "temp": 4.99,
+                "feels_like": 4.99,
+                "temp_min": 4.99,
+                "temp_max": 4.99,
+                "pressure": 1018,
+                "sea_level": 1018,
+                "grnd_level": 1007,
+                "humidity": 54,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 800,
+                    "main": "Clear",
+                    "description": "чисте небо",
+                    "icon": "01n"
+                }
+            ],
+            "clouds": {
+                "all": 6
+            },
+            "wind": {
+                "speed": 0.83,
+                "deg": 291,
+                "gust": 0.92
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2024-11-19 15:00:00"
+        }
+    ],
+    "city": {
+        "id": 709930,
+        "name": "Dnipro",
+        "coord": {
+            "lat": 48.45,
+            "lon": 34.9833
+        },
+        "country": "UA",
+        "population": 1032822,
+        "timezone": 7200,
+        "sunrise": 1731905567,
+        "sunset": 1731938285
+    }
+}
