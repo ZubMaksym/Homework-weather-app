@@ -4,53 +4,17 @@
     "cnt": 8,
     "list": [
         {
-            "dt": 1731952800,
-            "main": {
-                "temp": 6.29,
-                "feels_like": 4.1,
-                "temp_min": 6.29,
-                "temp_max": 6.29,
-                "pressure": 1012,
-                "sea_level": 1012,
-                "grnd_level": 1001,
-                "humidity": 91,
-                "temp_kf": 0
-            },
-            "weather": [
-                {
-                    "id": 804,
-                    "main": "Clouds",
-                    "description": "хмарно",
-                    "icon": "04n"
-                }
-            ],
-            "clouds": {
-                "all": 100
-            },
-            "wind": {
-                "speed": 2.94,
-                "deg": 197,
-                "gust": 6.04
-            },
-            "visibility": 10000,
-            "pop": 0,
-            "sys": {
-                "pod": "n"
-            },
-            "dt_txt": "2024-11-18 18:00:00"
-        },
-        {
             "dt": 1731963600,
             "main": {
-                "temp": 6.06,
-                "feels_like": 4.35,
-                "temp_min": 5.59,
-                "temp_max": 6.06,
+                "temp": 6.11,
+                "feels_like": 4.37,
+                "temp_min": 5.74,
+                "temp_max": 6.11,
                 "pressure": 1012,
                 "sea_level": 1012,
                 "grnd_level": 1001,
-                "humidity": 90,
-                "temp_kf": 0.47
+                "humidity": 92,
+                "temp_kf": 0.37
             },
             "weather": [
                 {
@@ -64,9 +28,9 @@
                 "all": 100
             },
             "wind": {
-                "speed": 2.27,
-                "deg": 233,
-                "gust": 4.12
+                "speed": 2.32,
+                "deg": 227,
+                "gust": 4.6
             },
             "visibility": 10000,
             "pop": 0,
@@ -78,15 +42,15 @@
         {
             "dt": 1731974400,
             "main": {
-                "temp": 4.77,
-                "feels_like": 2.74,
-                "temp_min": 4.01,
-                "temp_max": 4.77,
+                "temp": 4.97,
+                "feels_like": 2.92,
+                "temp_min": 4.31,
+                "temp_max": 4.97,
                 "pressure": 1013,
                 "sea_level": 1013,
                 "grnd_level": 1002,
-                "humidity": 83,
-                "temp_kf": 0.76
+                "humidity": 79,
+                "temp_kf": 0.66
             },
             "weather": [
                 {
@@ -97,12 +61,12 @@
                 }
             ],
             "clouds": {
-                "all": 99
+                "all": 97
             },
             "wind": {
-                "speed": 2.37,
-                "deg": 269,
-                "gust": 3.3
+                "speed": 2.44,
+                "deg": 277,
+                "gust": 3.52
             },
             "visibility": 10000,
             "pop": 0,
@@ -114,31 +78,31 @@
         {
             "dt": 1731985200,
             "main": {
-                "temp": 2.88,
-                "feels_like": 0.48,
-                "temp_min": 2.88,
-                "temp_max": 2.88,
+                "temp": 2.87,
+                "feels_like": 0.5,
+                "temp_min": 2.87,
+                "temp_max": 2.87,
                 "pressure": 1014,
                 "sea_level": 1014,
                 "grnd_level": 1002,
-                "humidity": 73,
+                "humidity": 74,
                 "temp_kf": 0
             },
             "weather": [
                 {
-                    "id": 802,
+                    "id": 801,
                     "main": "Clouds",
-                    "description": "уривчасті хмари",
-                    "icon": "03n"
+                    "description": "кілька хмар",
+                    "icon": "02n"
                 }
             ],
             "clouds": {
-                "all": 30
+                "all": 14
             },
             "wind": {
-                "speed": 2.4,
-                "deg": 248,
-                "gust": 3.27
+                "speed": 2.37,
+                "deg": 261,
+                "gust": 2.96
             },
             "visibility": 10000,
             "pop": 0,
@@ -150,14 +114,14 @@
         {
             "dt": 1731996000,
             "main": {
-                "temp": 3.15,
-                "feels_like": 0.03,
-                "temp_min": 3.15,
-                "temp_max": 3.15,
+                "temp": 3,
+                "feels_like": 0.22,
+                "temp_min": 3,
+                "temp_max": 3,
                 "pressure": 1015,
                 "sea_level": 1015,
-                "grnd_level": 1004,
-                "humidity": 73,
+                "grnd_level": 1003,
+                "humidity": 75,
                 "temp_kf": 0
             },
             "weather": [
@@ -172,9 +136,9 @@
                 "all": 33
             },
             "wind": {
-                "speed": 3.33,
-                "deg": 235,
-                "gust": 9.5
+                "speed": 2.86,
+                "deg": 231,
+                "gust": 7.33
             },
             "visibility": 10000,
             "pop": 0,
@@ -187,30 +151,30 @@
             "dt": 1732006800,
             "main": {
                 "temp": 6.96,
-                "feels_like": 3.56,
+                "feels_like": 3.52,
                 "temp_min": 6.96,
                 "temp_max": 6.96,
-                "pressure": 1017,
-                "sea_level": 1017,
+                "pressure": 1016,
+                "sea_level": 1016,
                 "grnd_level": 1005,
                 "humidity": 51,
                 "temp_kf": 0
             },
             "weather": [
                 {
-                    "id": 800,
-                    "main": "Clear",
-                    "description": "чисте небо",
-                    "icon": "01d"
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "уривчасті хмари",
+                    "icon": "03d"
                 }
             ],
             "clouds": {
-                "all": 10
+                "all": 26
             },
             "wind": {
-                "speed": 5.55,
-                "deg": 279,
-                "gust": 8.86
+                "speed": 5.65,
+                "deg": 277,
+                "gust": 9.24
             },
             "visibility": 10000,
             "pop": 0,
@@ -222,14 +186,14 @@
         {
             "dt": 1732017600,
             "main": {
-                "temp": 7.91,
-                "feels_like": 5.26,
-                "temp_min": 7.91,
-                "temp_max": 7.91,
+                "temp": 7.69,
+                "feels_like": 4.78,
+                "temp_min": 7.69,
+                "temp_max": 7.69,
                 "pressure": 1017,
                 "sea_level": 1017,
                 "grnd_level": 1005,
-                "humidity": 42,
+                "humidity": 44,
                 "temp_kf": 0
             },
             "weather": [
@@ -241,12 +205,12 @@
                 }
             ],
             "clouds": {
-                "all": 11
+                "all": 17
             },
             "wind": {
-                "speed": 4.36,
-                "deg": 292,
-                "gust": 6.77
+                "speed": 4.82,
+                "deg": 291,
+                "gust": 7.11
             },
             "visibility": 10000,
             "pop": 0,
@@ -258,31 +222,31 @@
         {
             "dt": 1732028400,
             "main": {
-                "temp": 4.99,
-                "feels_like": 4.99,
-                "temp_min": 4.99,
-                "temp_max": 4.99,
+                "temp": 4.61,
+                "feels_like": 4.61,
+                "temp_min": 4.61,
+                "temp_max": 4.61,
                 "pressure": 1018,
                 "sea_level": 1018,
-                "grnd_level": 1007,
-                "humidity": 54,
+                "grnd_level": 1006,
+                "humidity": 60,
                 "temp_kf": 0
             },
             "weather": [
                 {
-                    "id": 800,
-                    "main": "Clear",
-                    "description": "чисте небо",
-                    "icon": "01n"
+                    "id": 802,
+                    "main": "Clouds",
+                    "description": "уривчасті хмари",
+                    "icon": "03n"
                 }
             ],
             "clouds": {
-                "all": 6
+                "all": 30
             },
             "wind": {
-                "speed": 0.83,
-                "deg": 291,
-                "gust": 0.92
+                "speed": 1.09,
+                "deg": 325,
+                "gust": 1.13
             },
             "visibility": 10000,
             "pop": 0,
@@ -290,6 +254,42 @@
                 "pod": "n"
             },
             "dt_txt": "2024-11-19 15:00:00"
+        },
+        {
+            "dt": 1732039200,
+            "main": {
+                "temp": 3.82,
+                "feels_like": 2.21,
+                "temp_min": 3.82,
+                "temp_max": 3.82,
+                "pressure": 1019,
+                "sea_level": 1019,
+                "grnd_level": 1007,
+                "humidity": 60,
+                "temp_kf": 0
+            },
+            "weather": [
+                {
+                    "id": 801,
+                    "main": "Clouds",
+                    "description": "кілька хмар",
+                    "icon": "02n"
+                }
+            ],
+            "clouds": {
+                "all": 21
+            },
+            "wind": {
+                "speed": 1.81,
+                "deg": 169,
+                "gust": 2.03
+            },
+            "visibility": 10000,
+            "pop": 0,
+            "sys": {
+                "pod": "n"
+            },
+            "dt_txt": "2024-11-19 18:00:00"
         }
     ],
     "city": {
