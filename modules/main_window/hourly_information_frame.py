@@ -19,7 +19,7 @@ class HourlyData(ctk.CTkFrame):
         if self.COUNT == 0:
             self.TIME = ctk.CTkLabel(
                 master= self,
-                text = 'Зараз',
+                text = 'Now',
                 font= ("Arial", 32, "bold")          
             )
         else:
