@@ -5,36 +5,36 @@
     },
     "weather": [
         {
-            "id": 502,
+            "id": 500,
             "main": "Rain",
-            "description": "сильний дощ",
+            "description": "легкий дощ",
             "icon": "10n"
         }
     ],
     "base": "stations",
     "main": {
-        "temp": 13.31,
-        "feels_like": 12.99,
-        "temp_min": 12.28,
-        "temp_max": 14.05,
-        "pressure": 997,
+        "temp": 13.83,
+        "feels_like": 13.57,
+        "temp_min": 12.7,
+        "temp_max": 14.54,
+        "pressure": 998,
         "humidity": 88,
-        "sea_level": 997,
-        "grnd_level": 993
+        "sea_level": 998,
+        "grnd_level": 994
     },
     "visibility": 10000,
     "wind": {
-        "speed": 8.75,
-        "deg": 210,
-        "gust": 14.4
+        "speed": 6.71,
+        "deg": 160,
+        "gust": 9.83
     },
     "rain": {
-        "1h": 4.21
+        "1h": 0.52
     },
     "clouds": {
         "all": 100
     },
-    "dt": 1732389886,
+    "dt": 1732394604,
     "sys": {
         "type": 2,
         "id": 268730,
